@@ -10,7 +10,7 @@ namespace ConsoleApplication16
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("juewodefd");
+            Console.WriteLine("juewodefd");// qdrewelwrfewfkewfdsd
         }
     }
 }
