@@ -1,1 +1,1 @@
-# twoidom
+# proga eto kruto
