@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T09:14:08.259Z" agent="5.0 (X11)" etag="qL6OCSIMJ4orZ2jLOIlY" version="15.2.1" type="github"><diagram id="3uVu_IRRv5x9trovjOaI" name="Page-1">3ZlLc5swEIB/jY/JIAkMHAmO20Mzk5kc6h6JUY062PJg+dVfXyEkWAFJ7MSPNDlotMtqkVarLys8IPF8961IltkDT2k+wE66G5DRAOOAeLItFftK4YZaMStYWqlQo3hif6lWOlq7ZildWYaC81ywpa2c8sWCToWlS4qCb22z3zy337pMZrSjeJomeVf7k6Ui08vCfqP/TtksM29Gw7B6Mk+MsV7JKktSvgUqcj8gccG5qHrzXUzzMnYmLtW48QtP64kVdCEOGSBccbdbjSd/8s3kIcjIzQ2KbrSXTZKv9YKjqeCFnrHYmzDIyS/L7nqeVwbkbkMLwWSgfiTPNH/kKyYYX0iTZy4EnwODKGez8oHgS6nNxDyXApJdvhY5W9C43jpHKvWE5Fi6e3GlqI6fzDvK51QUe2liBpiQ71vyttlBV6sysHlDrUt0zsxqz01YZUdH9ogo406UOwGmizQq01VKC76gdqDojolJGZ9b39PiLyWah6Odjp4S9kB4pAWTi6CFFV6adrK+FVw5Ob4upvTt3BFJMaPiFTu3f7PAZng9m2F0Bc0TwTb2dPt2SL/hkTO5kDoXSGjnAg5am1wtU4+Cx6flqB5oksppOari0HGkEqZe9vtzyO3mkNzQcFy2d/cDmSdBoFqiNJG0VR1PtXegHykzrFpHDy+N0SAcKnGkHiHbrPYcA1cjYEPMG0eqdbTP0o8SyzZs7OW7ajKCY5Dnkuxl+m8zJujTMlEpuJX/W+wjcQJMyAN/iz1rU70uKBDqSU7/XKTwTkQKZGGCtP6OpoaMaLGfQKFy7BmxcaUk4+sKtBl+Ktp476UNadGmnXFnps2wnzY+OMuxIY9scQcyI8CHsUGBbwxq8lTGfh9/cMd4BDRqydXYD02J9GEK+oltuMXAjIB+NY2geUU4vC7c3FYCkR604UuizT8D2o6vf/4jkgVfkmT1fehCJAv6SYbBeUWGPYo0JHoLCXAsBtzyDZNcUJQhADMHDI9MlXRNSCB8axdA9b0bYoL4xgomWruQPhkozBS+9qWU9AD5opdS1L37Hwlkg1Jko7Sv2nyFrErqYNrceK061nsV96dEND6Q0cjp3/TLQLr2Y3LKfSekXfcN2p8Z0ibeLUpHEJ4YQBUWj92y7iNV4bhDeNe4qgtY58NvuSbz2znjHFgYno/35ESVYQOIQ3DxWatD51D0XPW7Ghq20ig8UX3YcXRu9PR/WGtqONmOQR+ec2LjIDLH3lSTofvCVzJ4oxwDojkd+ihvQQwg0nstbZWzEJSf7ipKgr4a8zRXUSk2v6hUKdL8LEXu/wE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-13T09:17:53.140Z" agent="5.0 (X11)" etag="7JbwTT3mYKSarIT9sg-Q" version="15.2.1" type="github">
+  <diagram id="3uVu_IRRv5x9trovjOaI" name="Page-1">
+    <mxGraphModel dx="835" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t4tBxsFXjlvXM8h3--1A-1" value="Клієнт " style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="120" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t4tBxsFXjlvXM8h3--1A-2" value="" style="endArrow=none;html=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="t4tBxsFXjlvXM8h3--1A-1" target="t4tBxsFXjlvXM8h3--1A-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="280" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t4tBxsFXjlvXM8h3--1A-4" value="Пошук електро інструменту на сайті " style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="226.25" y="50" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="t4tBxsFXjlvXM8h3--1A-5" value="" style="endArrow=none;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="t4tBxsFXjlvXM8h3--1A-1" target="t4tBxsFXjlvXM8h3--1A-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="250" as="sourcePoint" />
+            <mxPoint x="230" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t4tBxsFXjlvXM8h3--1A-6" value="Замовлення через інтернет/замовлення у самому магазині" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="130" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="t4tBxsFXjlvXM8h3--1A-7" value="" style="endArrow=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="t4tBxsFXjlvXM8h3--1A-1" target="t4tBxsFXjlvXM8h3--1A-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="250" as="sourcePoint" />
+            <mxPoint x="230" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t4tBxsFXjlvXM8h3--1A-8" value="Вибір: самовивіз/доставка" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="212.5" y="210" width="137.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t4tBxsFXjlvXM8h3--1A-10" value="Робітник магазину" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="330" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t4tBxsFXjlvXM8h3--1A-11" value="" style="endArrow=none;html=1;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="t4tBxsFXjlvXM8h3--1A-12" target="t4tBxsFXjlvXM8h3--1A-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="340" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t4tBxsFXjlvXM8h3--1A-12" value="Створення замовлення/видача замовлення" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t4tBxsFXjlvXM8h3--1A-13" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="t4tBxsFXjlvXM8h3--1A-10" target="t4tBxsFXjlvXM8h3--1A-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="390" as="sourcePoint" />
+            <mxPoint x="230" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t4tBxsFXjlvXM8h3--1A-14" value="допомога клієнту у правильному виборі" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="380" width="130" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
